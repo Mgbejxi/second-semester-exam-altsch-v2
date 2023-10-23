@@ -52,11 +52,11 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 20vw;
-  
+  width: 30vw;
+  margin-top: 5rem;
+  margin-left: 35vw
 }
 .cont {
-  color:;
   align-items: center;
 }
 input,
@@ -68,14 +68,18 @@ h3 {
 input {
   margin-top: 20px;
   margin-bottom: 20px;;
-  margin-left: 35vw;
+  margin-left: 40vw;
 }
 
 .btn3 {
+  width: 20vw;
+  align-items: center;
   margin-top: 20px;
   margin-bottom: 20px;;
-  margin-left: 35vw;
+  margin-left: 40vw;
+  margin-right: 40vw;
 }
+
 h1 {
   color: #0c8ca9;
   font-weight: 300;
@@ -110,7 +114,7 @@ p {
 button {
   border: none;
   border-radius: 10px;
-  width: 20vh;
+  width: 8vw;
   height: 40px;
   background-color: #2a2742;
   color: #fff;
@@ -120,7 +124,7 @@ button {
 }
 
 input {
-  width: 100px;
+  width: 15vw;
   height: 40px;
   text-align: center;
   border: 2px solid #2a2742;
