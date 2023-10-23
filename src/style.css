@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+.count {
+  font-size: 6rem;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 2rem;
+  color:#2206fa
+}
+.header {
+  text-align: center;
+}
+
+div,
+p,
+input,
+button {
+  margin: 0;
+}
+
+.btn {
+  width: 30vw;
+  margin: 10px
+}
+.button-container  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.home {
+  text-align: center;
+}
+.first-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  
+}
+.cont {
+  color:;
+  align-items: center;
+}
+input,
+p,
+h3 {
+  color: #22c91c;
+  text-align: center;
+}
+input {
+  margin-top: 20px;
+  margin-bottom: 20px;;
+  margin-left: 35vw;
+}
+
+.btn3 {
+  margin-top: 20px;
+  margin-bottom: 20px;;
+  margin-left: 35vw;
+}
+h1 {
+  color: #0c8ca9;
+  font-weight: 300;
+}
+
+h3 {
+  font-weight: 500;
+}
+h2 {
+  font-weight: 500;
+  color: red;
+  text-align: center;
+}
+h6 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: rgb(107, 9, 9);
+  text-align: center;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  width: 20vh;
+  height: 40px;
+  background-color: #2a2742;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+input {
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  border: 2px solid #2a2742;
+  border-radius: 10px;
+  outline: none;
+  font-size: 2rem;
+  font-weight: 400;
+  padding: 5px;
+}
